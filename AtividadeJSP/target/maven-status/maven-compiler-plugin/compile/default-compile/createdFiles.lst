@@ -1,0 +1,6 @@
+util\FormatarData.class
+util\HibernateUtil.class
+servlets\ListarClienteServlet.class
+servlets\DetalhesClienteServlet.class
+model\Cliente.class
+servlets\AddClienteServlet.class
